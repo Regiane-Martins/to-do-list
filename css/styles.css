@@ -1,12 +1,9 @@
 body {
-    background-image: linear-gradient(to right, #876b99, #34073d);
-    color: #fff;
-    font-family: Helvetica;
-    margin: 0;
-    padding: 0;
-    padding-top: 30px;
-    text-align: center;
+  background-image: linear-gradient(to right, #876b99, #34073d);
+  color: #fff;
+  font-family: Helvetica;
+  margin: 0;
+  padding: 0;
+  padding-top: 30px;
+  text-align: center;
 }
-
-
-    
